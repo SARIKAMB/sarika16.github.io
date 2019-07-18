@@ -1,0 +1,13 @@
+/*
+.main_menu .navbar-default .navbar-collapse .navbar-nav li:hover a, .main_menu .navbar-default .navbar-collapse .navbar-nav li.active a {
+	color:#d91466;
+}
+.main_menu .navbar-default .navbar-collapse .navbar-nav li a::before {
+	background:#d91466;
+}
+.main_menu .navbar-default .navbar-collapse .navbar-nav li.submenu .dropdown-menu li a::before {
+	background:#d91466;
+}
+.main_menu .navbar-default .navbar-collapse .navbar-nav li.submenu .dropdown-menu li a {
+	color: #d91466;
+}*/
